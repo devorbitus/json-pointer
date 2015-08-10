@@ -1,7 +1,7 @@
 {
   "name": "json-pointer",
   "main": "index.js",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "homepage": "https://github.com/devorbitus/json-pointer",
   "authors": [
     "manuelstofer"
