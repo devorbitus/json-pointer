@@ -19,7 +19,7 @@ var each = function forEach (obj, fn, ctx) {
         }
     }
 };
-module.exports = api;
+var pointer = api;
 
 
 /**
