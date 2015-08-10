@@ -1,0 +1,21 @@
+{
+  "name": "json-pointer",
+  "main": "index.js",
+  "version": "0.2.2",
+  "homepage": "https://github.com/devorbitus/json-pointer",
+  "authors": [
+    "manuelstofer"
+  ],
+  "description": "Some utilities for JSON pointers described by RFC 6901",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
